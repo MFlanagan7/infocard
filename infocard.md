@@ -2,7 +2,7 @@
 name: Michael Flanagan
 title: Marketing Technologist & HubSpot Developer
 location: Oklahoma City, OK
-summary: Marketing technologist and HubSpot developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JavaScript, analytics, and AI-assisted workflows that ship campaigns faster.
+summary: Marketing technologist & HubSpot developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JS, analytics, and AI-assisted workflows that ship campaigns faster.
 tags: [marketing-technology, hubspot, hubspot-cms, hubl, hubdb, hubspot-breeze, javascript, html, css, frontend, frontend-development, marketing-automation, conversion-rate-optimization, seo, google-analytics, a-b-testing, api-integration, rest-api, mysql, wordpress, web-performance, accessibility, responsive-design, git, ai, generative-ai, prompt-engineering, llm, ai-assisted-development, ai-marketing, ai-workflows, claude, claude-code, claude-design, chatgpt, openai, perplexity, notebooklm, midjourney, adobe-firefly, oklahoma-city]
 open_to: [full-time, contract, consulting, freelance, part-time, remote]
 ---
