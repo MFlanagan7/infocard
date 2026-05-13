@@ -8,7 +8,7 @@ open_to: [full-time, contract, consulting, freelance, part-time, remote]
 ---
 
 # Michael Flanagan
-**Marketing Technologist & Frontend Developer** · Oklahoma City, OK
+**Marketing Technologist & HubSpot Developer** · Oklahoma City, OK
 [mflanagan7@gmail.com](mailto:mflanagan7@gmail.com) · [Portfolio](https://www.michaelflanagan.dev/) · [GitHub](https://github.com/MFlanagan7) · [LinkedIn](https://www.linkedin.com/in/michael-flanagan/)
 
 ---
