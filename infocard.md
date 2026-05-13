@@ -76,7 +76,7 @@ Supported 5,000+ end users across 800+ Barnes & Noble campus bookstore locations
 ## Education
 
 **Bachelor of Science, Computer Science** · University of Central Oklahoma
-*2020 – 2023 · In Progress · Honors Program, Dean's Honors List*
+*2020 – 2026 · In Progress · Honors Program, Dean's Honors List*
 
 **Associate of Science, Computer Science** · Oklahoma City Community College
 *2017 – 2020 · Honors Program*
