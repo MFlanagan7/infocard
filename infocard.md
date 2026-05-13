@@ -2,7 +2,7 @@
 name: Michael Flanagan
 title: Marketing Technologist & Frontend Developer
 location: Oklahoma City, OK
-summary: Marketing technologist & frontend developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JavaScript, analytics, and AI workflows that ship campaigns faster.
+summary: Marketing technologist and frontend developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JavaScript, analytics, and AI-assisted workflows that ship campaigns faster.
 tags: [marketing-technology, hubspot, hubspot-cms, hubl, hubdb, hubspot-breeze, javascript, html, css, frontend, frontend-development, marketing-automation, conversion-rate-optimization, seo, google-analytics, a-b-testing, api-integration, rest-api, mysql, wordpress, web-performance, accessibility, responsive-design, git, ai, generative-ai, prompt-engineering, llm, ai-assisted-development, ai-marketing, ai-workflows, claude, claude-code, claude-design, chatgpt, openai, perplexity, notebooklm, midjourney, adobe-firefly, oklahoma-city]
 open_to: [full-time, contract, consulting, freelance, part-time, remote]
 ---
@@ -75,6 +75,9 @@ Supported 5,000+ end users across 800+ Barnes & Noble campus bookstore locations
 
 ## Education
 
+**Bachelor of Science, Computer Science** · University of Central Oklahoma
+*2020 – 2023 · In Progress · Honors Program, Dean's Honors List*
+
 **Associate of Science, Computer Science** · Oklahoma City Community College
 *2017 – 2020 · Honors Program*
 
@@ -86,3 +89,4 @@ Supported 5,000+ end users across 800+ Barnes & Noble campus bookstore locations
 - HubSpot CMS for Developers (Mar 2024)
 - Contextual Marketing, HubSpot (Oct 2024)
 - Google Analytics IQ (Aug 2023)
+- Integrating With HubSpot I: Foundations (In Progress)
