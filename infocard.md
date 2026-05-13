@@ -2,8 +2,8 @@
 name: Michael Flanagan
 title: Marketing Technologist & Frontend Developer
 location: Oklahoma City, OK
-summary: Marketing technologist and frontend developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JavaScript, analytics, and the workflows that ship campaigns.
-tags: [marketing-technology, hubspot, hubspot-cms, hubl, hubdb, javascript, html, css, frontend, frontend-development, marketing-automation, conversion-rate-optimization, seo, google-analytics, a-b-testing, api-integration, rest-api, mysql, wordpress, web-performance, accessibility, responsive-design, git, oklahoma-city]
+summary: Marketing technologist and frontend developer with 2.5 years building HubSpot CMS implementations, custom modules, and conversion-focused web experiences for a $1.5B financial institution. Bridges marketing and engineering with HubL, JavaScript, analytics, and AI-assisted workflows that ship campaigns faster.
+tags: [marketing-technology, hubspot, hubspot-cms, hubl, hubdb, hubspot-breeze, javascript, html, css, frontend, frontend-development, marketing-automation, conversion-rate-optimization, seo, google-analytics, a-b-testing, api-integration, rest-api, mysql, wordpress, web-performance, accessibility, responsive-design, git, ai, generative-ai, prompt-engineering, llm, ai-assisted-development, ai-marketing, ai-workflows, claude, claude-code, claude-design, chatgpt, openai, perplexity, notebooklm, midjourney, adobe-firefly, oklahoma-city]
 open_to: [full-time, contract, consulting, freelance, part-time, remote]
 ---
 
@@ -17,8 +17,9 @@ open_to: [full-time, contract, consulting, freelance, part-time, remote]
 
 | Area | Stack |
 |------|-------|
-| Marketing Tech | HubSpot CMS · HubL · HubDB · Marketing Automation · CRO · A/B Testing |
+| Marketing Tech | HubSpot CMS · HubL · HubDB · HubSpot Breeze · Marketing Automation · CRO · A/B Testing |
 | Frontend | JavaScript (ES6+) · HTML5 · CSS3 · Responsive Design · Accessibility (ARIA) |
+| AI Tooling | Claude · Claude Code · Claude Design · ChatGPT · OpenAI API · Perplexity · NotebookLM · Midjourney · Adobe Firefly · Prompt Engineering |
 | Familiar With | React · TypeScript · Tailwind CSS · Next.js · PHP |
 | Backend & Data | RESTful APIs · MySQL · Node.js · HubDB |
 | Analytics & SEO | Google Analytics · Conversion Tracking · SEO · Web Performance |
@@ -58,6 +59,8 @@ Oklahoma City, OK · On-site
 Led enterprise website redesign as sole developer for a $1.5B financial institution, consolidating 250+ legacy pages into a streamlined 150-page site on HubSpot CMS with improved URL structure and conversion-focused information architecture. Built 20+ custom HubSpot modules and 3 custom templates using HubL, JavaScript, HTML, and CSS, enabling the marketing team to ship on-brand campaigns without developer bottlenecks.
 
 Serve as technical administrator for the enterprise HubSpot account, owning platform configuration, marketing automation, analytics implementation, SEO, and security. Developed a real-time mortgage rate API integration and HubDB CRUD tools that let non-technical team members manage site content directly. Established Git workflows, technical documentation, and performance optimization practices (image optimization, code splitting, lazy loading) that improved team efficiency and site performance.
+
+Use AI tooling daily (Claude, Claude Code, Claude Design, HubSpot Breeze) to accelerate HubL and JavaScript development, debug complex modules, draft marketing copy, and prototype designs. Previously built a small game project against the OpenAI API and am actively planning AI features for an upcoming site build.
 
 ---
 
